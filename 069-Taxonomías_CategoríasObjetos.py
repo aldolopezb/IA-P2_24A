@@ -1,3 +1,6 @@
+#Aldo López Barrios
+#21310106
+#--------------------------
 class Categoria:
     def __init__(self, nombre, subcategorias=None):
         self.nombre = nombre

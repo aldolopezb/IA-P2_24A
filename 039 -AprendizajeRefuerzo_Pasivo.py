@@ -1,3 +1,6 @@
+#Aldo López Barrios
+#21310106
+#--------------------------
 import numpy as np
 
 def aprendizaje_refuerzo_pasivo(num_estados, num_acciones, num_episodios, matriz_recompensas, tasa_aprendizaje):

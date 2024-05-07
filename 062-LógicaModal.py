@@ -1,3 +1,6 @@
+#Aldo López Barrios
+#21310106
+#--------------------------
 from modal_logic_parser import Formula, World, ModalSystem, SystemLabel
 from modal_logic_parser.syntax import AtomicProposition
 

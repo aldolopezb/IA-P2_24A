@@ -1,3 +1,6 @@
+#Aldo López Barrios
+#21310106
+#--------------------------
 from sympy import symbols, Or, And, Not, parse_expr
 
 def to_cnf_resolution(expression):

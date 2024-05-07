@@ -1,3 +1,6 @@
+#Aldo López Barrios
+#21310106
+#--------------------------
 from rdflib import Graph, URIRef, Literal, Namespace
 from rdflib.namespace import RDF, RDFS, OWL
 

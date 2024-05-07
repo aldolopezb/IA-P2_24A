@@ -1,3 +1,6 @@
+#Aldo López Barrios
+#21310106
+#--------------------------
 class BaseConocimiento:
     def __init__(self):
         self.hechos = set()

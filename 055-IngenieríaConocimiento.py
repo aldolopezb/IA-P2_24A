@@ -1,3 +1,6 @@
+#Aldo López Barrios
+#21310106
+#--------------------------
 class Rule:
     def __init__(self, condition, recommendation):
         self.condition = condition

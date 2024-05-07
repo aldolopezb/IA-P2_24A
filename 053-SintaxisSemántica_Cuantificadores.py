@@ -1,3 +1,6 @@
+#Aldo López Barrios
+#21310106
+#--------------------------
 from sympy import symbols, And, Or, Not
 
 # Definición de variables

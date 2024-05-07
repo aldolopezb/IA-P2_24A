@@ -1,3 +1,6 @@
+#Aldo López Barrios
+#21310106
+#--------------------------
 class Grafo:
     def __init__(self, vertices):
         self.V = vertices

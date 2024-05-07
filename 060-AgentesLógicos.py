@@ -1,3 +1,6 @@
+#Aldo López Barrios
+#21310106
+#--------------------------
 class AgenteLogico:
     def __init__(self, base_conocimiento):
         self.base_conocimiento = base_conocimiento

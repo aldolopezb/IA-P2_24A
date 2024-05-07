@@ -1,3 +1,6 @@
+#Aldo López Barrios
+#21310106
+#--------------------------
 import numpy as np
 import gym
 

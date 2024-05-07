@@ -1,3 +1,6 @@
+#Aldo López Barrios
+#21310106
+#--------------------------
 class Marco:
     def __init__(self, nombre, atributos=None):
         self.nombre = nombre

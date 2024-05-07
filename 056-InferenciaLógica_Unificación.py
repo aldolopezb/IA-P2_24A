@@ -1,3 +1,6 @@
+#Aldo López Barrios
+#21310106
+#--------------------------
 def unify(var, x, theta):
     """
     Función para unificar dos términos.

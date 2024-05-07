@@ -1,3 +1,6 @@
+#Aldo López Barrios
+#21310106
+#--------------------------
 from sympy import symbols, Not, Or, And, Exists, ask
 from sympy.abc import x, y, z
 

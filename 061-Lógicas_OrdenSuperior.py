@@ -1,3 +1,6 @@
+#Aldo López Barrios
+#21310106
+#--------------------------
 from sympy import symbols, Function, forall, exists
 
 # Definimos los símbolos

@@ -1,3 +1,6 @@
+#Aldo López Barrios
+#21310106
+#--------------------------
 class KnowledgeBase:
     def __init__(self):
         self.facts = set()
